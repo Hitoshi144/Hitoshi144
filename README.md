@@ -31,6 +31,7 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
 
 <br/>  
 
+<div align="center" style="display: flex; flex-direction: row;">
 <div style="display: flex; justify-content: center; flex-direction: column;">
 
 <div align="center">
@@ -44,8 +45,10 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 </div>  
 
-<div align="center" style="gap: 20px;">  
+<div align="center">
 ### Tools & Utilities  
+</div>
+<div align="center" style="gap: 20px;">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -57,8 +60,10 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
 
 <div style="display: flex; justify-content: center; flex-direction: column;">
 
-<div align="center" style="gap: 20px;">  
+<div align="center">
 ### Backend  
+</div>
+<div align="center" style="gap: 20px;">  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -67,13 +72,16 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
 </div>  
 
-<div align="center" style="gap: 20px;">  
+<div align="center">
 ### Tools & Utilities  
+</div>
+<div align="center" style="gap: 20px;">  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
+</div>
 </div>
 
 <br/>  
