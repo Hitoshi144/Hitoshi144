@@ -32,7 +32,7 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
 <br/>  
 
 <div align="center" style="display: flex; flex-direction: row; flex-wrap: wrap;">
-<div style="display: flex; justify-content: center; flex-direction: column;">
+<div align="left" style="display: flex; justify-content: center; flex-direction: column;">
 
 <div align="center">
 ### Frontend  
@@ -58,7 +58,7 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
 </div>
 
 
-<div style="display: flex; justify-content: center; flex-direction: column;">
+<div align="right" style="display: flex; justify-content: center; flex-direction: column;">
 
 <div align="center">
 ### Backend  
