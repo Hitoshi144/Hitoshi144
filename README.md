@@ -31,7 +31,7 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 
 
