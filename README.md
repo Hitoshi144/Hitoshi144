@@ -106,7 +106,7 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitoshi144&hide_border=true&layout=compact&theme=material-palenight" />
   <br>
-  <img src="https://leetcard.jacoblin.cool/hitoshi144?theme=nord&font=vt323&border=0&radius=5" />
+  <img src="https://leetcard.jacoblin.cool/hitoshi144?theme=nord&font=vt323&border=0&radius=5&width=485&ext=activity" />
 </p>
 
 <br clear="both"/>
