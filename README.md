@@ -93,7 +93,7 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
 
 <br clear="both"/>  
 
-## <div align="center">┌────ＧｉｔＨｕｂ ｓｔａｔｓ────┐</div>  
+## <div align="center">┌────ｌｉｔｔｌｅ ｂｉｔ ｓｔａｔ────┐</div>  
 
 <br clear="both"/>
 
@@ -105,6 +105,8 @@ I’m Hitoshi, a 19-year-old full-stack developer mainly focused on building pra
   <img src="https://github-readme-stats.vercel.app/api?username=Hitoshi144&show_icons=true&count_private=true&hide_border=true&theme=material-palenight" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitoshi144&hide_border=true&layout=compact&theme=material-palenight" />
+  <br>
+  <img src="https://leetcard.jacoblin.cool/hitoshi144?theme=nord&font=vt323&border=0&radius=5" />
 </p>
 
 <br clear="both"/>
